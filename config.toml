@@ -1,0 +1,4 @@
+baseURL = "https://miraclecheesebunnies.github.io/"
+languageCode = "en-us"
+title = "Miracle Cheese Bunnies"
+theme = "ananke"
